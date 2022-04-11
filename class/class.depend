@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1603123762 source:d:\codeblocks\class\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+	<string.h>
+	<vector>
+	<cmath>
+	<string>
+	<iterator>
+	<map>
+	<time.h>
+
+1596116247 source:d:\codeblocks\class\src\arrayrotation.cpp
+	"arrayRotation.h"
+
+1596113998 d:\codeblocks\class\include\arrayrotation.h
+

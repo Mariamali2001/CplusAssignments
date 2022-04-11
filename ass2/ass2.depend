@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609945947 source:d:\codeblocks\ass2\main.cpp
+	<iostream>
+	"list.h"
+
+1609945947 d:\codeblocks\ass2\list.h
+

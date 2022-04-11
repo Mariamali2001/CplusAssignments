@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610176736 source:d:\codeblocks\ass5\src\mystring.cpp
+	"mystring.h"
+
+1610176842 d:\codeblocks\ass5\include\mystring.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+

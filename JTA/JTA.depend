@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635785810 source:d:\codeblocks\jta\main.cpp
+	<iostream>
+	<math.h>
+

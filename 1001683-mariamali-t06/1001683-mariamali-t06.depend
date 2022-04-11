@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605276624 source:d:\codeblocks\1001683-mariamali-t06\main.cpp
+	<iostream>
+	"dlist.h"
+
+1605275957 d:\codeblocks\1001683-mariamali-t06\dlist.h
+
